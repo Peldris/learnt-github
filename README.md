@@ -1,2 +1,2 @@
-# learnt-github
-这是我的第一个GitHub仓库
+# 我的学习笔记
+这是我在Github上的第一个项目——
